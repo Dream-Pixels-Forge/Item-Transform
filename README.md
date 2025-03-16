@@ -2,7 +2,7 @@
 
 A powerful Blender addon that provides quick transform operations for selected objects with an intuitive interface and additional utility functions.
 
-![Screenshot 2025-03-14 142005](https://github.com/user-attachments/assets/839f10df-291c-4ea1-bfac-6f20ee617daa)
+![Screenshot 2025-03-16 101255](https://github.com/user-attachments/assets/eabc33a7-fbce-40c6-8b13-c8ffdc155e28)
 
 
 ## Features
@@ -24,6 +24,9 @@ A powerful Blender addon that provides quick transform operations for selected o
 - Reset all transformations
 - Apply all transformations
 - Duplicate objects as instances
+
+  ## Stacking Tools
+- Stack selected objects to all axis, X,Y,Z direction and also minus direction
 
 ### Utility Functions
 - Purge unused data
@@ -60,6 +63,9 @@ Access the addon's main panel in the Properties sidebar under the Object propert
 
 ### Keyboard Shortcuts
 - Shift+Alt+T: Opens the transform pie menu
+
+  
+![Screenshot 2025-03-16 094951](https://github.com/user-attachments/assets/0c26fac3-2b99-4466-a19a-33984ffe486c)
 
 ### Pivot Tools
 1. Select desired pivot point mode
